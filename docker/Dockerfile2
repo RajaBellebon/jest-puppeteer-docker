@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM atlassianlabs/atlaskit-mk-2:1.0.4
 
 ENV REV=599821
 EXPOSE 9222
